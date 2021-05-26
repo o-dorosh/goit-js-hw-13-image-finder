@@ -1,0 +1,2 @@
+.search-form{display:flex;justify-content:center}ul{display:flex;list-style:none;flex-wrap:wrap;margin-top:-10px;margin-left:-10px}.photo-card{border:1px solid;height:380px}li{flex-basis:calc(33.33333% - 30px);margin-left:30px;margin-top:30px;cursor:pointer;box-shadow:none;transition:box-shadow .25s cubic-bezier(.4,0,.2,1)}li:nth-child(3n+3){margin-right:0}img{width:400px}button{display:block;padding:0;margin:0 auto}.stats{display:flex;justify-content:space-around;align-items:center}
+/*# sourceMappingURL=/parcel-project-template/styles.df1d8e9a.css.map */
