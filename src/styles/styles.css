@@ -30,13 +30,16 @@ li:nth-child(3n + 3) {
 }
 
 img {
+  display: block;
   width: 400px;
 }
 
 button {
   display: block;
-  padding: 0;
   margin: 0 auto;
+  background-color: pink;
+  width: 150px;
+  border-radius: 7px;
 }
 
 .stats {
