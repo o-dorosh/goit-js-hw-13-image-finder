@@ -14,7 +14,6 @@ ul {
 
 .photo-card {
   border: 1px solid;
-  height: 380px;
 }
 
 li {
@@ -44,4 +43,8 @@ button {
   display: flex;
   justify-content: space-around;
   align-items: center;
+}
+
+.is-hidden {
+  visibility: hidden;
 }
