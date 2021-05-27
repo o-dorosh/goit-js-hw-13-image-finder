@@ -50,7 +50,7 @@ function appendPhotosMarkUp(hits) {
 
 async function onLoadMore() {
   await newsApiService.fetchImagesByKeyWord().then(appendPhotosMarkUp);
-  setTimeout(scroll, 100);
+  setTimeout(scroll, 1000);
 }
 
 function scroll() {
